@@ -169,7 +169,7 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(to right, #8826f1, #d22ea3);
+  background: linear-gradient(to right, #f126dd, #9338b8, #a99af3);
   padding: 15px 40px;
   display: flex;
   justify-content: space-between;
@@ -178,14 +178,14 @@ body {
 .disclaimer-premium .disclaimer-premium__title{
   color: #fff;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight:700;
   font-size: var(--font-size-small);
   margin-bottom: 10px;
 }
 
 .disclaimer-premium .disclaimer-premium__subtitle{
   color: #fff;
-  font-weight: 400;
+  font-weight: 500;
   font-size: var(--font-size-small);
 }
 
